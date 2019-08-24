@@ -1,2 +1,4 @@
 # Image-Encryption-Decryption-Algorithm
 Computer Vision
+
+In this project we have implemented three different algorithms to which uses all three aspects. The project discusses a detailed implementation of common Image encryption/decryption algorithms throughout the years. With the rapid advance in Data storage and security, communicating and storing images for a long period of time, without having an unauthorized user access the content becomes a primary concern. Over the years, several image encryption and decryption algorithms have been implemented, with improvements over the decryption times and the accuracy of the result. We discuss and compare 3 primary algorithms in this project. The implementations are worked on MATLAB 2018a software and coded from scratch using Image processing toolbox.
